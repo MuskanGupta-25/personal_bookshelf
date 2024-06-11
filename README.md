@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # Book Search Application
-=======
 
 # Getting Started with Create React App
->>>>>>> bd114487a84c6de56d2d4dfb52805c40aaeba46a
 
 This is a React-based application that allows users to search for books and display the results. The book data is fetched from an API (www.example.com). Users can also bookmark books and view them on a dedicated bookshelf page. Bookmarked books are stored in the browser's local storage.
 
