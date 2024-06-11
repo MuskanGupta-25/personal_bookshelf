@@ -1,3 +1,15 @@
+# Personal Bookshelf
+## Setup
+#Node version Used in project is v20.10.0
+1. Clone the repository:
+   ```bash
+   git clone
+2. Install Dependencies - npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+3. Create the basic Structure 
+4. Implement the Components
+5. Run the application - npm Start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
